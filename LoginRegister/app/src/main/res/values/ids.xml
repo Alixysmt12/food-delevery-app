@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_view" type="id" />
+    <item name="drawer_layout" type="id" />
+    <item name="fruits_veggies" type="id" />
+    <item name="products_recycler" type="id" />
+    <item name="bottom_bar" type="id" />
+    <item name="cart_floating" type="id" />
+    <item name="bottom_profile_text" type="id" />
+    <item name="bottom_profile_img" type="id" />
+    <item name="bottom_home_text" type="id" />
+    <item name="bottom_home_img" type="id" />
+    <item name="linearLayout2" type="id" />
+    <item name="minus" type="id" />
+    <item name="number" type="id" />
+    <item name="plus" type="id" />
+    <item name="addtocart_btn" type="id" />
+    <item name="cart_item_plusBtn" type="id" />
+    <item name="cart_item_minusBtn" type="id" />
+</resources>
